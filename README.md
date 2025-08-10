@@ -63,9 +63,5 @@ jupyter notebook Notebook_1.ipynb
 * Saved visualizations (`.png`) for each analysis step.
 * Summary statistics and model results.
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
 ---
 
